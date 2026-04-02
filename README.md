@@ -26,7 +26,7 @@ Aspiring Data Engineer with hands-on experience in building ETL pipelines, data 
 ## 📂 Projects
 
 * 🔹 **Sales Data Pipeline (Python + pandas)**
-  End-to-end ETL pipeline that ingests, cleans, transforms, and validates sales data
+  - End-to-end ETL pipeline that ingests, cleans, transforms, and validates sales data
 
 * 🔹 **ETL Pipeline (Python + SQLite)**
   Pipeline with extraction, transformation, and loading logic including incremental processing
